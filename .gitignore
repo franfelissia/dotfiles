@@ -1,0 +1,20 @@
+# Autogenerados por Neovim/Lazy.nvim
+/nvim/lazy-lock.json
+/nvim/lazy/
+
+# Temporales/backups
+*.swp
+*.swo
+*~
+*.bak
+*.undo
+*.log
+
+# Cache y binarios
+*.pyc
+__pycache__/
+
+# Configs locales o sensibles
+secrets.lua
+.env
+*.local
