@@ -6,6 +6,7 @@
 ✅ **Configured / Configurados:**
 - Neovim
 - Fastfetch
+
 🚧 **Coming soon / Próximamente:**
 - AwesomeWM
 - Rofi
