@@ -68,7 +68,7 @@
         {
             "type": "disk",
             "key": "│{#cyan}│ {icon}  Disk      │{$4}│{#keys}│{$2}",
-            "format": "{size-used} \/ {size-total} ({size-percentage}) - {filesystem}"
+            "format": "{size-used} / {size-total} ({size-percentage}) - {filesystem}"
         },
         {
             "type": "battery",

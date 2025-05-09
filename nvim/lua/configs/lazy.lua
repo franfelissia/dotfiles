@@ -26,9 +26,7 @@ vim.opt.rtp:prepend(lazypath)
 -- Iniciamos lazy.
 require("lazy").setup({
   -- Con spec de decimos de donde sacar los plugins que debe instalar y como deben configurarse.
-  spec = { { import = "plugins" } },
-  -- Utiliza otro esquema de colores para la ventana donde se instalan los plugins.
-  install = { colorscheme = { "habamax" } },
+  spec = { import = "plugins" },
   -- Que busque automaticamente actualizaciones.
-  -- checker = { enabled = true },
+  checker = { enabled = true },
 })

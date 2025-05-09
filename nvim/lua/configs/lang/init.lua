@@ -1,0 +1,6 @@
+require("configs.lang.mason")
+require("configs.lang.treesitter")
+require("configs.lang.conform")
+require("configs.lang.completion")
+require("configs.lang.snippets")
+require("configs.lang.lsp")
